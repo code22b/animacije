@@ -1,2 +1,2 @@
 # animacije
-Java script animacije
+JavaScript animacije
